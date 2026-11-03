@@ -1,0 +1,538 @@
+{
+ "bolt_blue": {
+  "file": "sprites/bolt_blue.png",
+  "w": 58,
+  "h": 19,
+  "frames": 4,
+  "px": 29,
+  "py": 9
+ },
+ "bolt_pink": {
+  "file": "sprites/bolt_pink.png",
+  "w": 60,
+  "h": 19,
+  "frames": 4,
+  "px": 30,
+  "py": 9
+ },
+ "boss_defeat": {
+  "file": "sprites/boss_defeat.png",
+  "w": 466,
+  "h": 370,
+  "frames": 5,
+  "px": 229,
+  "py": 369
+ },
+ "boss_heli": {
+  "file": "sprites/boss_heli.png",
+  "w": 525,
+  "h": 150,
+  "frames": 1,
+  "px": 263,
+  "py": 75
+ },
+ "boss_tank": {
+  "file": "sprites/boss_tank.png",
+  "w": 504,
+  "h": 150,
+  "frames": 1,
+  "px": 266,
+  "py": 149
+ },
+ "boss_transform": {
+  "file": "sprites/boss_transform.png",
+  "w": 374,
+  "h": 267,
+  "frames": 4,
+  "px": 197,
+  "py": 266
+ },
+ "carrier": {
+  "file": "sprites/carrier.png",
+  "w": 97,
+  "h": 49,
+  "frames": 1,
+  "px": 49,
+  "py": 25
+ },
+ "chris_aimdown": {
+  "file": "sprites/chris_aimdown.png",
+  "w": 128,
+  "h": 102,
+  "frames": 3,
+  "px": 48,
+  "py": 101,
+  "muzzle": [
+   51,
+   -32
+  ]
+ },
+ "chris_aimup": {
+  "file": "sprites/chris_aimup.png",
+  "w": 116,
+  "h": 105,
+  "frames": 3,
+  "px": 46,
+  "py": 104,
+  "muzzle": [
+   53,
+   -97
+  ]
+ },
+ "chris_hit": {
+  "file": "sprites/chris_hit.png",
+  "w": 98,
+  "h": 107,
+  "frames": 1,
+  "px": 50,
+  "py": 106
+ },
+ "chris_jump": {
+  "file": "sprites/chris_jump.png",
+  "w": 87,
+  "h": 96,
+  "frames": 1,
+  "px": 23,
+  "py": 95,
+  "muzzle": [
+   61,
+   -59
+  ]
+ },
+ "chris_prone": {
+  "file": "sprites/chris_prone.png",
+  "w": 157,
+  "h": 54,
+  "frames": 1,
+  "px": 77,
+  "py": 53,
+  "muzzle": [
+   76,
+   -25
+  ]
+ },
+ "chris_run": {
+  "file": "sprites/chris_run.png",
+  "w": 112,
+  "h": 103,
+  "frames": 4,
+  "px": 55,
+  "py": 102,
+  "muzzle": [
+   46,
+   -61
+  ]
+ },
+ "chris_stand": {
+  "file": "sprites/chris_stand.png",
+  "w": 130,
+  "h": 102,
+  "frames": 4,
+  "px": 48,
+  "py": 101,
+  "muzzle": [
+   52,
+   -65
+  ]
+ },
+ "chris_td": {
+  "file": "sprites/chris_td.png",
+  "w": 37,
+  "h": 75,
+  "frames": 4,
+  "px": 18,
+  "py": 39,
+  "muzzle": [
+   0,
+   -37
+  ]
+ },
+ "chris_td_fire": {
+  "file": "sprites/chris_td_fire.png",
+  "w": 37,
+  "h": 77,
+  "frames": 3,
+  "px": 18,
+  "py": 39
+ },
+ "crawler": {
+  "file": "sprites/crawler.png",
+  "w": 134,
+  "h": 74,
+  "frames": 3,
+  "px": 67,
+  "py": 73
+ },
+ "drone": {
+  "file": "sprites/drone.png",
+  "w": 77,
+  "h": 69,
+  "frames": 1,
+  "px": 39,
+  "py": 35
+ },
+ "drone_pursuit": {
+  "file": "sprites/drone_pursuit.png",
+  "w": 109,
+  "h": 66,
+  "frames": 1,
+  "px": 55,
+  "py": 33
+ },
+ "flash_blue": {
+  "file": "sprites/flash_blue.png",
+  "w": 60,
+  "h": 40,
+  "frames": 4,
+  "px": 1,
+  "py": 20
+ },
+ "fx_debris": {
+  "file": "sprites/fx_debris.png",
+  "w": 127,
+  "h": 90,
+  "frames": 4,
+  "px": 63,
+  "py": 45
+ },
+ "fx_explode": {
+  "file": "sprites/fx_explode.png",
+  "w": 114,
+  "h": 108,
+  "frames": 5,
+  "px": 57,
+  "py": 54
+ },
+ "fx_explode_big": {
+  "file": "sprites/fx_explode_big.png",
+  "w": 156,
+  "h": 166,
+  "frames": 5,
+  "px": 78,
+  "py": 83
+ },
+ "fx_spark": {
+  "file": "sprites/fx_spark.png",
+  "w": 52,
+  "h": 45,
+  "frames": 5,
+  "px": 26,
+  "py": 23
+ },
+ "fx_zap": {
+  "file": "sprites/fx_zap.png",
+  "w": 132,
+  "h": 98,
+  "frames": 4,
+  "px": 66,
+  "py": 49
+ },
+ "guardian": {
+  "file": "sprites/guardian.png",
+  "w": 160,
+  "h": 123,
+  "frames": 3,
+  "px": 75,
+  "py": 122,
+  "muzzle": [
+   78,
+   -27
+  ]
+ },
+ "heavy": {
+  "file": "sprites/heavy.png",
+  "w": 131,
+  "h": 109,
+  "frames": 3,
+  "px": 62,
+  "py": 108,
+  "muzzle": [
+   66,
+   -56
+  ]
+ },
+ "insect": {
+  "file": "sprites/insect.png",
+  "w": 114,
+  "h": 77,
+  "frames": 2,
+  "px": 57,
+  "py": 39
+ },
+ "jungle_trooper": {
+  "file": "sprites/jungle_trooper.png",
+  "w": 105,
+  "h": 99,
+  "frames": 3,
+  "px": 52,
+  "py": 98,
+  "muzzle": [
+   51,
+   -55
+  ]
+ },
+ "orb": {
+  "file": "sprites/orb.png",
+  "w": 67,
+  "h": 73,
+  "frames": 2,
+  "px": 33,
+  "py": 37
+ },
+ "panther": {
+  "file": "sprites/panther.png",
+  "w": 146,
+  "h": 63,
+  "frames": 3,
+  "px": 82,
+  "py": 62
+ },
+ "plasma": {
+  "file": "sprites/plasma.png",
+  "w": 63,
+  "h": 31,
+  "frames": 4,
+  "px": 31,
+  "py": 15
+ },
+ "portrait_chris": {
+  "file": "sprites/portrait_chris.png",
+  "w": 64,
+  "h": 64,
+  "frames": 1,
+  "px": 0,
+  "py": 0
+ },
+ "portrait_riggs": {
+  "file": "sprites/portrait_riggs.png",
+  "w": 64,
+  "h": 64,
+  "frames": 1,
+  "px": 0,
+  "py": 0
+ },
+ "pu_emp": {
+  "file": "sprites/pu_emp.png",
+  "w": 46,
+  "h": 42,
+  "frames": 1,
+  "px": 23,
+  "py": 21
+ },
+ "pu_health": {
+  "file": "sprites/pu_health.png",
+  "w": 45,
+  "h": 41,
+  "frames": 1,
+  "px": 23,
+  "py": 21
+ },
+ "pu_life": {
+  "file": "sprites/pu_life.png",
+  "w": 44,
+  "h": 41,
+  "frames": 1,
+  "px": 22,
+  "py": 21
+ },
+ "pu_rapid": {
+  "file": "sprites/pu_rapid.png",
+  "w": 43,
+  "h": 42,
+  "frames": 1,
+  "px": 21,
+  "py": 21
+ },
+ "pu_sensor": {
+  "file": "sprites/pu_sensor.png",
+  "w": 52,
+  "h": 48,
+  "frames": 1,
+  "px": 26,
+  "py": 24
+ },
+ "pu_shield": {
+  "file": "sprites/pu_shield.png",
+  "w": 46,
+  "h": 41,
+  "frames": 1,
+  "px": 23,
+  "py": 21
+ },
+ "pu_spread": {
+  "file": "sprites/pu_spread.png",
+  "w": 45,
+  "h": 46,
+  "frames": 1,
+  "px": 23,
+  "py": 23
+ },
+ "rifleman": {
+  "file": "sprites/rifleman.png",
+  "w": 151,
+  "h": 95,
+  "frames": 3,
+  "px": 58,
+  "py": 94,
+  "muzzle": [
+   66,
+   -56
+  ]
+ },
+ "riggs_aimdown": {
+  "file": "sprites/riggs_aimdown.png",
+  "w": 125,
+  "h": 102,
+  "frames": 3,
+  "px": 49,
+  "py": 101,
+  "muzzle": [
+   51,
+   -35
+  ]
+ },
+ "riggs_aimup": {
+  "file": "sprites/riggs_aimup.png",
+  "w": 126,
+  "h": 106,
+  "frames": 3,
+  "px": 49,
+  "py": 105,
+  "muzzle": [
+   53,
+   -97
+  ]
+ },
+ "riggs_hit": {
+  "file": "sprites/riggs_hit.png",
+  "w": 99,
+  "h": 104,
+  "frames": 1,
+  "px": 48,
+  "py": 103
+ },
+ "riggs_jump": {
+  "file": "sprites/riggs_jump.png",
+  "w": 89,
+  "h": 97,
+  "frames": 1,
+  "px": 24,
+  "py": 96,
+  "muzzle": [
+   61,
+   -58
+  ]
+ },
+ "riggs_prone": {
+  "file": "sprites/riggs_prone.png",
+  "w": 157,
+  "h": 59,
+  "frames": 1,
+  "px": 70,
+  "py": 58,
+  "muzzle": [
+   83,
+   -27
+  ]
+ },
+ "riggs_run": {
+  "file": "sprites/riggs_run.png",
+  "w": 113,
+  "h": 104,
+  "frames": 4,
+  "px": 59,
+  "py": 103,
+  "muzzle": [
+   40,
+   -64
+  ]
+ },
+ "riggs_stand": {
+  "file": "sprites/riggs_stand.png",
+  "w": 121,
+  "h": 101,
+  "frames": 4,
+  "px": 44,
+  "py": 100,
+  "muzzle": [
+   52,
+   -66
+  ]
+ },
+ "riggs_td": {
+  "file": "sprites/riggs_td.png",
+  "w": 37,
+  "h": 75,
+  "frames": 4,
+  "px": 18,
+  "py": 39,
+  "muzzle": [
+   0,
+   -37
+  ]
+ },
+ "riggs_td_fire": {
+  "file": "sprites/riggs_td_fire.png",
+  "w": 38,
+  "h": 74,
+  "frames": 3,
+  "px": 19,
+  "py": 39
+ },
+ "skeleton": {
+  "file": "sprites/skeleton.png",
+  "w": 96,
+  "h": 101,
+  "frames": 4,
+  "px": 41,
+  "py": 100,
+  "muzzle": [
+   49,
+   -65
+  ]
+ },
+ "tank": {
+  "file": "sprites/tank.png",
+  "w": 193,
+  "h": 81,
+  "frames": 2,
+  "px": 61,
+  "py": 80,
+  "muzzle": [
+   79,
+   -42
+  ]
+ },
+ "td_spider": {
+  "file": "sprites/td_spider.png",
+  "w": 68,
+  "h": 48,
+  "frames": 2,
+  "px": 34,
+  "py": 24
+ },
+ "td_tank": {
+  "file": "sprites/td_tank.png",
+  "w": 96,
+  "h": 109,
+  "frames": 2,
+  "px": 47,
+  "py": 47,
+  "muzzle": [
+   0,
+   46
+  ]
+ },
+ "td_trooper": {
+  "file": "sprites/td_trooper.png",
+  "w": 50,
+  "h": 80,
+  "frames": 4,
+  "px": 24,
+  "py": 31,
+  "muzzle": [
+   -6,
+   40
+  ]
+ }
+}
